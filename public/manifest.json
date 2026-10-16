@@ -1,0 +1,16 @@
+{
+  "name": "AI Binance Futures Terminal",
+  "short_name": "AI Futures",
+  "description": "Real-time Binance USDT-M Futures signal terminal with Volumatic VIDYA, MA cross and trade journal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#12161d",
+  "theme_color": "#12161d",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
